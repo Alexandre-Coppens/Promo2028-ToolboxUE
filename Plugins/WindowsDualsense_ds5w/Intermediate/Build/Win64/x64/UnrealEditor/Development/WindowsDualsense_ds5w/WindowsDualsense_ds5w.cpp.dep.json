@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\alexandre.coppens\\downloads\\arenasample_windowsdualsense\\arenasample_new\\plugins\\windowsdualsense_ds5w\\source\\windowsdualsense_ds5w\\private\\windowsdualsense_ds5w.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\alexandre.coppens\\downloads\\arenasample_windowsdualsense\\arenasample_new\\intermediate\\build\\win64\\x64\\arenasampleeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\alexandre.coppens\\downloads\\arenasample_windowsdualsense\\arenasample_new\\plugins\\windowsdualsense_ds5w\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\windowsdualsense_ds5w\\definitions.windowsdualsense_ds5w.h",
+            "c:\\users\\alexandre.coppens\\downloads\\arenasample_windowsdualsense\\arenasample_new\\plugins\\windowsdualsense_ds5w\\source\\windowsdualsense_ds5w\\public\\windowsdualsense_ds5w.h",
+            "c:\\users\\alexandre.coppens\\downloads\\arenasample_windowsdualsense\\arenasample_new\\plugins\\windowsdualsense_ds5w\\source\\windowsdualsense_ds5w\\public\\devicemanager.h",
+            "d:\\epic\\ue_5.6\\engine\\source\\runtime\\inputdevice\\public\\ihapticdevice.h",
+            "d:\\epic\\ue_5.6\\engine\\source\\runtime\\inputdevice\\public\\iinputdevice.h",
+            "d:\\epic\\ue_5.6\\engine\\source\\runtime\\inputdevice\\public\\iinputdevicemodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
